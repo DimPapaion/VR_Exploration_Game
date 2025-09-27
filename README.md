@@ -28,8 +28,9 @@ Traverse immersive environments, discover hidden areas, and experience virtual r
 2. Ensure you have Google VR SDK imported (or whatever VR plugin the project uses)
 
 3. Set up VR support / XR settings in Unity (enable VR/AR plugin, define supported devices)
+---
 
-##🎮 Usage / Play - Supported Platforms
+## 🎮 Usage / Play - Supported Platforms
 
 1. Use VR headset + controller to look around and move (teleport or locomotion, depending on implementation)
 
